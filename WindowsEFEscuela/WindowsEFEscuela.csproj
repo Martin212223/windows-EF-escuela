@@ -90,6 +90,10 @@
     <Compile Include="Migrations\202301170230431_pkAgregada.designer.cs">
       <DependentUpon>202301170230431_pkAgregada.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202301171238388_dbsetsAgregados.cs" />
+    <Compile Include="Migrations\202301171238388_dbsetsAgregados.designer.cs">
+      <DependentUpon>202301171238388_dbsetsAgregados.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Alumno.cs" />
     <Compile Include="Models\Aula.cs" />
@@ -108,6 +112,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202301170230431_pkAgregada.resx">
       <DependentUpon>202301170230431_pkAgregada.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202301171238388_dbsetsAgregados.resx">
+      <DependentUpon>202301171238388_dbsetsAgregados.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
