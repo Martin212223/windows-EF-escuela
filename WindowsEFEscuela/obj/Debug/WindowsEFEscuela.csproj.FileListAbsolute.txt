@@ -7,14 +7,12 @@ C:\Users\Alternativa\Desktop\Práctica Entity Framework\slnEFEscuela\WindowsEFEs
 C:\Users\Alternativa\Desktop\Práctica Entity Framework\slnEFEscuela\WindowsEFEscuela\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Alternativa\Desktop\Práctica Entity Framework\slnEFEscuela\WindowsEFEscuela\obj\Debug\WindowsEFEscuela.csproj.AssemblyReference.cache
 C:\Users\Alternativa\Desktop\Práctica Entity Framework\slnEFEscuela\WindowsEFEscuela\obj\Debug\WindowsEFEscuela.csproj.SuggestedBindingRedirects.cache
-C:\Users\Alternativa\Desktop\Práctica Entity Framework\slnEFEscuela\WindowsEFEscuela\obj\Debug\WindowsEFEscuela.Form1.resources
 C:\Users\Alternativa\Desktop\Práctica Entity Framework\slnEFEscuela\WindowsEFEscuela\obj\Debug\WindowsEFEscuela.Properties.Resources.resources
 C:\Users\Alternativa\Desktop\Práctica Entity Framework\slnEFEscuela\WindowsEFEscuela\obj\Debug\WindowsEFEscuela.csproj.GenerateResource.cache
 C:\Users\Alternativa\Desktop\Práctica Entity Framework\slnEFEscuela\WindowsEFEscuela\obj\Debug\WindowsEFEscuela.csproj.CoreCompileInputs.cache
 C:\Users\Alternativa\Desktop\Práctica Entity Framework\slnEFEscuela\WindowsEFEscuela\obj\Debug\WindowsEFEscuela.csproj.CopyComplete
 C:\Users\Alternativa\Desktop\Práctica Entity Framework\slnEFEscuela\WindowsEFEscuela\obj\Debug\WindowsEFEscuela.exe
 C:\Users\Alternativa\Desktop\Práctica Entity Framework\slnEFEscuela\WindowsEFEscuela\obj\Debug\WindowsEFEscuela.pdb
+C:\Users\Alternativa\Desktop\Práctica Entity Framework\slnEFEscuela\WindowsEFEscuela\obj\Debug\WindowsEFEscuela.frmAlumnos.resources
 C:\Users\Alternativa\Desktop\Práctica Entity Framework\slnEFEscuela\WindowsEFEscuela\obj\Debug\WindowsEFEscuela.Migrations.first.resources
-C:\Users\Alternativa\Desktop\Práctica Entity Framework\slnEFEscuela\WindowsEFEscuela\obj\Debug\WindowsEFEscuela.Migrations.claseAgregadas.resources
-C:\Users\Alternativa\Desktop\Práctica Entity Framework\slnEFEscuela\WindowsEFEscuela\obj\Debug\WindowsEFEscuela.Migrations.pkAgregada.resources
-C:\Users\Alternativa\Desktop\Práctica Entity Framework\slnEFEscuela\WindowsEFEscuela\obj\Debug\WindowsEFEscuela.Migrations.dbsetsAgregados.resources
+C:\Users\Alternativa\Desktop\Práctica Entity Framework\slnEFEscuela\WindowsEFEscuela\obj\Debug\WindowsEFEscuela.Migrations.final.resources

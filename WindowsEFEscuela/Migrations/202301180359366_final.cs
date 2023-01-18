@@ -3,7 +3,7 @@
     using System;
     using System.Data.Entity.Migrations;
     
-    public partial class pkAgregada : DbMigration
+    public partial class final : DbMigration
     {
         public override void Up()
         {

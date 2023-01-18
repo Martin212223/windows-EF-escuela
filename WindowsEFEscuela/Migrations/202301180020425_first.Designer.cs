@@ -7,13 +7,13 @@ namespace WindowsEFEscuela.Migrations
     using System.Resources;
     
     [GeneratedCode("EntityFramework.Migrations", "6.4.0")]
-    public sealed partial class claseAgregadas : IMigrationMetadata
+    public sealed partial class first : IMigrationMetadata
     {
-        private readonly ResourceManager Resources = new ResourceManager(typeof(claseAgregadas));
+        private readonly ResourceManager Resources = new ResourceManager(typeof(first));
         
         string IMigrationMetadata.Id
         {
-            get { return "202301170229290_claseAgregadas"; }
+            get { return "202301180020425_first"; }
         }
         
         string IMigrationMetadata.Source

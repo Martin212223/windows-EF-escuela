@@ -26,5 +26,11 @@ namespace WindowsEFEscuela.Models
 
         [Column(TypeName = "date")]
         public DateTime? FechaNacimiento { get; set; }  //DateTime? es para permitir valor null, por defecto viene como not null
+
+        
+        public int ProfesorId { get; set; }
+
+        [ForeignKey("ProfesorId")]
+        public Profesor Profesor { get; set; }
     }
 }

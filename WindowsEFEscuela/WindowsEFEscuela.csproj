@@ -71,6 +71,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Dac\AbmAlumno.cs" />
     <Compile Include="Data\DBEscuelaEFContext.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
@@ -78,21 +79,13 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\202301170227489_first.cs" />
-    <Compile Include="Migrations\202301170227489_first.designer.cs">
-      <DependentUpon>202301170227489_first.cs</DependentUpon>
+    <Compile Include="Migrations\202301180020425_first.cs" />
+    <Compile Include="Migrations\202301180020425_first.designer.cs">
+      <DependentUpon>202301180020425_first.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\202301170229290_claseAgregadas.cs" />
-    <Compile Include="Migrations\202301170229290_claseAgregadas.designer.cs">
-      <DependentUpon>202301170229290_claseAgregadas.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\202301170230431_pkAgregada.cs" />
-    <Compile Include="Migrations\202301170230431_pkAgregada.designer.cs">
-      <DependentUpon>202301170230431_pkAgregada.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\202301171238388_dbsetsAgregados.cs" />
-    <Compile Include="Migrations\202301171238388_dbsetsAgregados.designer.cs">
-      <DependentUpon>202301171238388_dbsetsAgregados.cs</DependentUpon>
+    <Compile Include="Migrations\202301180359366_final.cs" />
+    <Compile Include="Migrations\202301180359366_final.designer.cs">
+      <DependentUpon>202301180359366_final.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Alumno.cs" />
@@ -104,17 +97,11 @@
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\202301170227489_first.resx">
-      <DependentUpon>202301170227489_first.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202301180020425_first.resx">
+      <DependentUpon>202301180020425_first.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\202301170229290_claseAgregadas.resx">
-      <DependentUpon>202301170229290_claseAgregadas.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\202301170230431_pkAgregada.resx">
-      <DependentUpon>202301170230431_pkAgregada.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\202301171238388_dbsetsAgregados.resx">
-      <DependentUpon>202301171238388_dbsetsAgregados.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202301180359366_final.resx">
+      <DependentUpon>202301180359366_final.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
